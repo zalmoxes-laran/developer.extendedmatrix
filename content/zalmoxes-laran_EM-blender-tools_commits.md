@@ -1,0 +1,33 @@
+# Commits
+- Update README.md
+- Update README.md
+- Update README.md
+- Update README.md
+- Update README.md
+- Update README.md
+- Update README.md
+- Update export_manager.py
+- Merge pull request #14 from zalmoxes-laran/v.1.3.0-development
+
+V.1.3.0 development
+- Merge branch 'master' into v.1.3.0-development
+- Update sqlite_io.py
+- Update sqlite_io.py
+- added support to EMdb_USV v.0
+- Added temptative menu for EMdb-usv
+- Version 1.3.2
+- Update functions.py
+- Add commento function
+- Added support to read the sqlite db from pyarchint
+- EMdb_Update_U.I.
+- Merge branch 'v.1.3.0-development' of https://github.com/zalmoxes-laran/EM-blender-tools into v.1.3.0-development
+- Merge branch 'v.1.3.0-development' of https://github.com/zalmoxes-laran/EM-blender-tools into v.1.3.0-development
+- Update sqlite_io.py
+- fixed sqlite dependecy
+- Update blender_pip.py
+- EMdb_UI.
+- adding support for exernal modules
+- added support for db sqlite import
+- adding sqlite US form input output feature
+- Update export_manager.py
+- Added support for partial exports of EMviq projects
